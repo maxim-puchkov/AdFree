@@ -48,7 +48,7 @@ _App description._
 &ad_classid=
 ```
 * Replace `^([^$\s]*)` with
-```
+```json
 "trigger": {
 	"url-filter": "$1",
 	"load-type": ["third-party"]
@@ -57,7 +57,7 @@ _App description._
 },
 ```
 * Resulting list 
-```
+```json
 "trigger": {
     "url-filter": "&ad_box_",
     "load-type": ["third-party"]
@@ -81,7 +81,7 @@ _App description._
 
 # Examples
 * Rule syntax 1
-```
+```json
 [
     {
         "trigger": {
@@ -96,7 +96,7 @@ _App description._
 ]
 ```
 * Rule syntax 2 
-```
+```json
 [
     {
         "trigger": {
