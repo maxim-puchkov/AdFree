@@ -11,6 +11,7 @@
 		8416CB9422F5A61300E4314C /* FilterParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8416CB9322F5A61300E4314C /* FilterParser.swift */; };
 		8416CB9622F5AF4100E4314C /* Rule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8416CB9522F5AF4100E4314C /* Rule.swift */; };
 		841BE8A823082A6200EB0FB9 /* blockerList.json in Resources */ = {isa = PBXBuildFile; fileRef = 84E87DF922E480E500390D7D /* blockerList.json */; };
+		841BE8AA2308588700EB0FB9 /* EasyListTriggers in Resources */ = {isa = PBXBuildFile; fileRef = 841BE8A92308588700EB0FB9 /* EasyListTriggers */; };
 		8435519922E99FC70022297B /* tests in Resources */ = {isa = PBXBuildFile; fileRef = 8435519822E99FC70022297B /* tests */; };
 		84BC1A7D22E5A4B100D0EF1F /* ContentBlockerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BC1A7C22E5A4B100D0EF1F /* ContentBlockerList.swift */; };
 		84BC1A7F22E5A68300D0EF1F /* EasyList in Resources */ = {isa = PBXBuildFile; fileRef = 84BC1A7E22E5A68300D0EF1F /* EasyList */; };
@@ -69,6 +70,8 @@
 		8416CB9322F5A61300E4314C /* FilterParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterParser.swift; sourceTree = "<group>"; };
 		8416CB9522F5AF4100E4314C /* Rule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rule.swift; sourceTree = "<group>"; };
 		8416CB9822F5B02D00E4314C /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		841BE8A92308588700EB0FB9 /* EasyListTriggers */ = {isa = PBXFileReference; lastKnownFileType = text; path = EasyListTriggers; sourceTree = "<group>"; };
+		841BE8AB23085ACD00EB0FB9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8435519822E99FC70022297B /* tests */ = {isa = PBXFileReference; lastKnownFileType = text; path = tests; sourceTree = "<group>"; };
 		84BC1A7C22E5A4B100D0EF1F /* ContentBlockerList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentBlockerList.swift; sourceTree = "<group>"; };
 		84BC1A7E22E5A68300D0EF1F /* EasyList */ = {isa = PBXFileReference; lastKnownFileType = text; path = EasyList; sourceTree = "<group>"; };
@@ -126,6 +129,7 @@
 		84E87DB922E4801700390D7D = {
 			isa = PBXGroup;
 			children = (
+				841BE8AB23085ACD00EB0FB9 /* README.md */,
 				8416CB9822F5B02D00E4314C /* MyPlayground.playground */,
 				84E87DC422E4801700390D7D /* AdFree */,
 				84E87DD922E4801900390D7D /* AdFreeTests */,
@@ -187,6 +191,7 @@
 				8435519822E99FC70022297B /* tests */,
 				84E87DFD22E480E500390D7D /* Info.plist */,
 				84BC1A7E22E5A68300D0EF1F /* EasyList */,
+				841BE8A92308588700EB0FB9 /* EasyListTriggers */,
 				8416CB9322F5A61300E4314C /* FilterParser.swift */,
 				8416CB9522F5AF4100E4314C /* Rule.swift */,
 			);
@@ -346,6 +351,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8435519922E99FC70022297B /* tests in Resources */,
+				841BE8AA2308588700EB0FB9 /* EasyListTriggers in Resources */,
 				84BC1A7F22E5A68300D0EF1F /* EasyList in Resources */,
 				84E87DFA22E480E500390D7D /* blockerList.json in Resources */,
 			);

@@ -33,3 +33,13 @@
 
 • "document", "image", "style-sheet", "script", "font",
 "raw", "svg-document", "media", "popup"
+
+
+• Replace ^([^$\s]*) with:
+
+"trigger": {
+	"url-filter": "$1",
+	"load-type": ["third-party"]
+}, "action": {
+	"type": "block"
+}
