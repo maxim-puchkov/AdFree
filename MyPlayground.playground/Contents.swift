@@ -317,11 +317,6 @@ class Parser {
         let begin = text.prefix(2)
         print(begin)
         
-        if (begin == RuleToken.element_selector) {
-            
-        }
-        
-        
         let urlFilter = "*\(text)*"
         let trigger = Trigger(urlFilter: urlFilter)
         
