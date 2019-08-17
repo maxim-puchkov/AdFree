@@ -1,0 +1,35 @@
+• [
+    {
+        "trigger": {
+            "url-filter": ".*",
+            "resource-type": ["document", "image", "style-sheet", "script"],
+            "unless-domain": ["*apple.com", "trusted-content-server.com"]
+        },
+        "action": {
+            "type": "block"
+        }
+    }
+]
+
+
+• [
+    {
+        "trigger": {
+            "url-filter": ".*",
+            "resource-type": ["document", "image", "style-sheet", "script", "font",
+                "raw", "svg-document", "media", "popup"],
+            "if-domain": ["*exoticads.com"]
+        },
+
+        "action": {
+            "type": "block"
+        }
+    }
+]
+
+
+• "load-type": ["third-party"],
+
+
+• "document", "image", "style-sheet", "script", "font",
+"raw", "svg-document", "media", "popup"
