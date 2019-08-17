@@ -16,9 +16,6 @@ class AllRulesViewController: ViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // Disable scrolling until view appears
-        self.textView.isScrollEnabled = false
-        
         // Name and type of the file to display
         let resourceName = "blockerList"
         let resourceType = "json"
@@ -42,9 +39,11 @@ class AllRulesViewController: ViewController {
         
     }
     
-    override func viewDidAppear(_ animated: Bool) {
-        // Enable text view scrolling
-        self.textView.isScrollEnabled = true
+    override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
+        
+        // Scroll text view to top
+        self.textView.setContentOffset(CGPoint(x: 0, y: 0), animated: false)
     }
 
     /*
