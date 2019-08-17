@@ -10,6 +10,7 @@
 		8416CB9222F5A53700E4314C /* AllRulesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8416CB9122F5A53700E4314C /* AllRulesViewController.swift */; };
 		8416CB9422F5A61300E4314C /* FilterParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8416CB9322F5A61300E4314C /* FilterParser.swift */; };
 		8416CB9622F5AF4100E4314C /* Rule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8416CB9522F5AF4100E4314C /* Rule.swift */; };
+		841BE8A823082A6200EB0FB9 /* blockerList.json in Resources */ = {isa = PBXBuildFile; fileRef = 84E87DF922E480E500390D7D /* blockerList.json */; };
 		8435519922E99FC70022297B /* tests in Resources */ = {isa = PBXBuildFile; fileRef = 8435519822E99FC70022297B /* tests */; };
 		84BC1A7D22E5A4B100D0EF1F /* ContentBlockerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BC1A7C22E5A4B100D0EF1F /* ContentBlockerList.swift */; };
 		84BC1A7F22E5A68300D0EF1F /* EasyList in Resources */ = {isa = PBXBuildFile; fileRef = 84BC1A7E22E5A68300D0EF1F /* EasyList */; };
@@ -322,6 +323,7 @@
 				84E87DD022E4801800390D7D /* LaunchScreen.storyboard in Resources */,
 				84E87DCD22E4801800390D7D /* Assets.xcassets in Resources */,
 				84E87DCB22E4801700390D7D /* Main.storyboard in Resources */,
+				841BE8A823082A6200EB0FB9 /* blockerList.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

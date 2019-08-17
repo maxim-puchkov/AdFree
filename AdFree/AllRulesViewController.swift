@@ -15,27 +15,37 @@ class AllRulesViewController: ViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
         
-        // let attachment = NSItemProvider(contentsOf: Bundle.main.url(forResource: "blockerList", withExtension: "json"))!
-
-        if let url = Bundle.main.path(forResource: "blockerList", ofType: "json") {
+        // Disable scrolling until view appears
+        self.textView.isScrollEnabled = false
+        
+        // Name and type of the file to display
+        let resourceName = "blockerList"
+        let resourceType = "json"
+        
+        // Find path of the required file; else display an error
+        if let url = Bundle.main.path(forResource: resourceName, ofType: resourceType) {
+            // Get and Display contents of the file; or display caught error
             do {
-                // let result = try String(contentsOf: url)
                 let contents = try String(contentsOfFile: url, encoding: .utf8)
                 self.textView.text = contents
-                print(contents)
             } catch {
                 print(error)
+                self.textView.text = "Error: \(error)."
             }
         } else {
-            print("Path error")
-            self.textView.text = "Unable to display contents of blockerList.json"
+            let errorText = "Unable to display contents of \(resourceName).\(resourceType)."
+            
+            print("Error: \(errorText)")
+            self.textView.text = "Error: \(errorText)\n\nBundle identifier: \(Bundle.main.bundleIdentifier!)."
         }
         
     }
     
+    override func viewDidAppear(_ animated: Bool) {
+        // Enable text view scrolling
+        self.textView.isScrollEnabled = true
+    }
 
     /*
     // MARK: - Navigation
