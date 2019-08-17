@@ -3,10 +3,10 @@ _App description._
 
 
 # Contents
-1. [Triggers](#Triggers)
-1. [Actions](#Actions)
-1. [Examples](#Examples)
-1. [Documentation](#Documentation)
+1. [Triggers](#triggers)
+1. [Actions](#actions)
+1. [Examples](#examples)
+1. [Documentation](#documentation)
 
 
 # Triggers
@@ -28,9 +28,6 @@ _App description._
     * third-party
 * if-top-url
 * unless-top-url 
-    
-`"document", "image", "style-sheet", "script", "font", "raw", "svg-document", "media", "popup"`
-`["first-party", "third-party"]`
 
 
 # Actions 
@@ -45,12 +42,14 @@ _App description._
 
 # Regex 
 * Original list 
-```&ad_box_
+```
+&ad_box_
 &ad_channel=
 &ad_classid=
 ```
 * Replace `^([^$\s]*)` with
-```"trigger": {
+```
+"trigger": {
 	"url-filter": "$1",
 	"load-type": ["third-party"]
 }, "action": {
@@ -58,7 +57,8 @@ _App description._
 },
 ```
 * Resulting list 
-```"trigger": {
+```
+"trigger": {
     "url-filter": "&ad_box_",
     "load-type": ["third-party"]
 }, "action": {
@@ -78,9 +78,11 @@ _App description._
 },
 ```
 
+
 # Examples
 * Rule syntax 1
-```[
+```
+[
     {
         "trigger": {
             "url-filter": ".*",
@@ -94,7 +96,8 @@ _App description._
 ]
 ```
 * Rule syntax 2 
-```[
+```
+[
     {
         "trigger": {
             "url-filter": ".*",
@@ -112,6 +115,6 @@ _App description._
 
 
 # Documentation
-* [x] [Create a content blocker (Apple)](https://www.google.com/search?client=safari&rls=en&q=create+a+content+blocker+safari&ie=UTF-8&oe=UTF-8)
+* [x] [Create a content blocker (Apple)](https://developer.apple.com/documentation/safariservices/creating_a_content_blocker)
 * [ ] [A content blocker in action (Apple)](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/ContentBlocker.html)
 * [x] [Safari content blocker in Swift](https://www.ios-blog.com/tutorials/swift/create-a-safari-content-blocker/)
