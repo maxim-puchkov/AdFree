@@ -174,15 +174,15 @@ print(s_action3)
 class Trigger: Serializable {
     
     // Serializable component name
-    let componentName = "trigger"
+    public let componentName = "trigger"
     
     // Each field as (key, value) pair
-    let urlFilter: (String, String)
-    var caseSensetive: (String, Bool) = ("url-filter-is-case-sensitive", false)
-    var ifDomain: (String, [String]) = ("if-domain", [])
-    var unlessDomain: (String, [String]) = ("unless-domain", [])
-    var resourceType: (String, [String]) = ("resource-type", [])
-    var loadType: (String, [String]) = ("load-type", ["third-party"])
+    private let urlFilter: (String, String)
+    private var caseSensetive: (String, Bool) = ("url-filter-is-case-sensitive", false)
+    private var ifDomain: (String, [String]) = ("if-domain", [])
+    private var unlessDomain: (String, [String]) = ("unless-domain", [])
+    private var resourceType: (String, [String]) = ("resource-type", [])
+    private var loadType: (String, [String]) = ("load-type", ["third-party"])
     
     
     
@@ -242,15 +242,15 @@ print(s_trigger3)
 /* Rule */
 class Rule {
     
-    let trigger: Trigger
-    let action: Action
+    private let trigger: Trigger
+    private let action: Action
     
     init(trigger: Trigger, action: Action) {
         self.trigger = trigger
         self.action = action
     }
     
-    func asString() -> String {
+    public func asString() -> String {
         return "{\(trigger.serialize()), \(action.serialize())}"
     }
 
@@ -315,17 +315,28 @@ class Parser {
     
     init(_ text: String) {
         let begin = text.prefix(2)
-        print(begin)
+        print("Begin: \(begin)")
         
         let urlFilter = "*\(text)*"
         let trigger = Trigger(urlFilter: urlFilter)
-        
         let action = Action(type: .block)
         
         self.rules = []
     }
     
 }
+
+
+
+
+
+
+
+
+
+/* Tests for Parser */
+print("\n\n")
+print("* Parser tests *")
 
 
 let parser = Parser("&act=ads_")
