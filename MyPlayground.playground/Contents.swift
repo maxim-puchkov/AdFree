@@ -317,10 +317,6 @@ class Parser {
         let begin = text.prefix(2)
         print(begin)
         
-//        switch begin {
-//            case RuleToken.element_selector
-//        }
-        
         if (begin == RuleToken.element_selector) {
             
         }
