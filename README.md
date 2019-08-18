@@ -3,10 +3,17 @@ _App description._
 
 
 # Contents
+1. [Partitions](#partitions)
 1. [Triggers](#triggers)
 1. [Actions](#actions)
 1. [Examples](#examples)
 1. [Documentation](#documentation)
+
+
+# Partitions
+1. Line 1017
+2. Line 2017 
+3. 
 
 
 # Triggers
