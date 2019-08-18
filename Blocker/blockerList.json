@@ -1686,7 +1686,7 @@
 },
 { "trigger": {
     "url-filter": "-advertise\\.",
-    "unless-domain": ["*i-advertise\\.net", "*mb-advertise\\.gr"]
+    "unless-domain": ["*i-advertise.net", "*mb-advertise.gr"]
 }, "action": {
     "type": "block"
 }
@@ -1795,7 +1795,7 @@
 },
 { "trigger": {
     "url-filter": "-adwords\\.",
-    "unless-domain": ["*consultant-adwords\\.com", "*consultant-adwords\\.fr", "*freelance-adwords\\.com", "*freelance-adwords\\.fr"]
+    "unless-domain": ["*consultant-adwords.com", "*consultant-adwords.fr", "*freelance-adwords.com", "*freelance-adwords.fr"]
 }, "action": {
     "type": "block"
 }
@@ -2858,7 +2858,7 @@
 },
 { "trigger": {
     "url-filter": "\\.ad6media\\.",
-    "unless-domain": ["*ad6media\\.fr"]
+    "unless-domain": ["*ad6media.fr"]
 }, "action": {
     "type": "block"
 }
@@ -2883,7 +2883,7 @@
 },
 { "trigger": {
     "url-filter": "\\.adcenter\\.",
-    "unless-domain": ["adcenter\\.nu"]
+    "unless-domain": ["adcenter.nu"]
 }, "action": {
     "type": "block"
 }
@@ -2920,14 +2920,14 @@
 },
 { "trigger": {
     "url-filter": "\\.adinject\\.",
-    "unless-domain": ["*adinject\\.com"]
+    "unless-domain": ["*adinject.com"]
 }, "action": {
     "type": "block"
 }
 },
 { "trigger": {
     "url-filter": "\\.adlabs\\.",
-    "unless-domain": ["*adlabs\\.ru"]
+    "unless-domain": ["*adlabs.ru"]
 }, "action": {
     "type": "block"
 }
@@ -2946,7 +2946,7 @@
 },
 { "trigger": {
     "url-filter": "\\.adnetwork\\.",
-    "unless-domain": ["*adnetwork\\.ie", "*adnetwork\\.sk"]
+    "unless-domain": ["*adnetwork.ie", "*adnetwork.sk"]
 }, "action": {
     "type": "block"
 }
@@ -2965,7 +2965,7 @@
 },
 { "trigger": {
     "url-filter": "\\.adpartner\\.",
-    "unless-domain": ["*adpartner\\.cz"]
+    "unless-domain": ["*adpartner.cz"]
 }, "action": {
     "type": "block"
 }
@@ -2984,7 +2984,7 @@
 },
 { "trigger": {
     "url-filter": "\\.adresult\\.",
-    "unless-domain": ["*adresult\\.ch"]
+    "unless-domain": ["*adresult.ch"]
 }, "action": {
     "type": "block"
 }
@@ -3130,7 +3130,7 @@
 },
 { "trigger": {
     "url-filter": "\\.adsbox\\.",
-    "unless-domain": ["*adsbox\\.in"]
+    "unless-domain": ["*adsbox.in"]
 }, "action": {
     "type": "block"
 }
@@ -3191,7 +3191,7 @@
 },
 { "trigger": {
     "url-filter": "\\.adService\\.",
-    "unless-domain": ["*adservice\\.com"]
+    "unless-domain": ["*adservice.com"]
 }, "action": {
     "type": "block"
 }
@@ -3234,7 +3234,7 @@
 },
 { "trigger": {
     "url-filter": "\\.advert\\.",
-    "unless-domain": ["*advert\\.ae", "*advert\\.io", "*advert\\.ly"]
+    "unless-domain": ["*advert.ae", "*advert.io", "*advert.ly"]
 }, "action": {
     "type": "block"
 }
@@ -3505,14 +3505,14 @@
 },
 { "trigger": {
     "url-filter": "\\.com/ad\\.",
-    "unless-domain": ["*ad-tuning\\.de"]
+    "unless-domain": ["*ad-tuning.de"]
 }, "action": {
     "type": "block"
 }
 },
 { "trigger": {
     "url-filter": "\\.com/ad/",
-    "unless-domain": ["*mediaplex\\.com"],
+    "unless-domain": ["*mediaplex.com"],
     "resource-type": ["image"],
     "load-type": ["third-party"]
 }, "action": {
@@ -3521,7 +3521,7 @@
 },
 { "trigger": {
     "url-filter": "\\.com/ad/",
-    "unless-domain": ["*blogs\\.technet\\.microsoft\\.com", "channel4\\.com", "cspace\\.com", "linkedin\\.com", "mediaplex\\.com", "online\\.wsj\\.com"],
+    "unless-domain": ["*blogs.technet.microsoft.com", "channel4.com", "cspace.com", "linkedin.com", "mediaplex.com", "online.wsj.com"],
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
