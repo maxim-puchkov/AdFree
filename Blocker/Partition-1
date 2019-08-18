@@ -1,6056 +1,5054 @@
-[
-{ "trigger": {
+
+
+"trigger": {
     "url-filter": "&act=ads_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "&ad\\.vid="
+"trigger": {
+    "url-filter": "&ad.vid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_box_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_channel="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_classid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_code="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_height="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_ids="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_keyword="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_network_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_number="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_revenue="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_slot="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_sub="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_time="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_type="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_type_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_url="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&ad_zones="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adbannerid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adclient="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adcount="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adflag="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adgroupid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adlist="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&admeld_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&admid=",
     "resource-type": ["media"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adname="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adnet="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adnum="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adpageurl="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&Ads_DFP="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adsafe="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adserv="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adserver="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adsize="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adslot="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adslots="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adsourceid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adspace="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adsrc="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adstrade="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adstype="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&AdType="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adunit="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adurl="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adv_keywords="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&advert_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&advertiserid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "&advid=",
+"trigger": {
+    "url-filter": "&advid="
     "resource-type": ["image"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&advtile="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&adzone="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&banner_id="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&bannerid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&clicktag=http"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&customSizeAd="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&displayads="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&expandable_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&forceadv="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "&gerf=.*&guro="
+"trigger": {
+    "url-filter": "&gerf=*&guro="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&gIncludeExternalAds="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&googleadword="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&img2_adv="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&jumpstartadformat="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&largead="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&maxads="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "&pltype=adhost\\^"
+"trigger": {
+    "url-filter": "&pltype=adhost^"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&popunder="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&program=revshare&"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "&prvtof=.*&poru="
+"trigger": {
+    "url-filter": "&prvtof=*&poru="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&show_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&showad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&simple_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&smallad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&smart_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&strategy=adsense&"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&type=ad&"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&UrlAdParam="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&video_ads_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&videoadid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "&view=ad&"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "&zoneid=.*&direct="
+"trigger": {
+    "url-filter": "&zoneid=*&direct="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\+advertorial\\."
+"trigger": {
+    "url-filter": "+advertorial."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\+adverts/"
+"trigger": {
+    "url-filter": "+adverts/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-2/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-2011ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-300x100ad2\\."
+"trigger": {
+    "url-filter": "-300x100ad2."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-728-90-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-001-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-180x150px\\."
+"trigger": {
+    "url-filter": "-ad-180x150px."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-200x200-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-24x24\\."
+"trigger": {
+    "url-filter": "-ad-24x24."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-300x250\\."
+"trigger": {
+    "url-filter": "-ad-300x250."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-300x450\\."
+"trigger": {
+    "url-filter": "-ad-300x450."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-300x600-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-303x481-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-313x232\\."
+"trigger": {
+    "url-filter": "-ad-313x232."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-336x280-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-340x400-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-400\\."
+"trigger": {
+    "url-filter": "-ad-400."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-472x365\\."
+"trigger": {
+    "url-filter": "-ad-472x365."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-640x480\\."
+"trigger": {
+    "url-filter": "-ad-640x480."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-970-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-banner-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-banner\\."
+"trigger": {
+    "url-filter": "-ad-banner."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-big\\."
+"trigger": {
+    "url-filter": "-ad-big."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-bottom-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-button-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-category-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-choices\\."
+"trigger": {
+    "url-filter": "-ad-choices."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-code/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-column-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-content/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-cube\\."
+"trigger": {
+    "url-filter": "-ad-cube."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-data/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-ero-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-exo-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-gif-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-gif1-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-home\\."
+"trigger": {
+    "url-filter": "-ad-home."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-hrule-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-hrule\\."
+"trigger": {
+    "url-filter": "-ad-hrule."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-iframe\\."
+"trigger": {
+    "url-filter": "-ad-iframe."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-iframe/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-large\\."
+"trigger": {
+    "url-filter": "-ad-large."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-Ad-Large_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-left\\."
+"trigger": {
+    "url-filter": "-ad-left."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-limits\\."
+"trigger": {
+    "url-filter": "-ad-limits."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-link-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-live\\."
+"trigger": {
+    "url-filter": "-ad-live."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-loading\\."
+"trigger": {
+    "url-filter": "-ad-loading."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-manager/",
     "resource-type": ["style-sheet"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-map/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-marker\\."
+"trigger": {
+    "url-filter": "-ad-marker."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-master/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-mpu\\+"
+"trigger": {
+    "url-filter": "-ad-mpu+"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-new_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-pixel-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-plugin-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-random/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-refresh\\."
+"trigger": {
+    "url-filter": "-ad-refresh."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-refresh/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-reload\\."
+"trigger": {
+    "url-filter": "-ad-reload."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-reload/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-resize-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-right\\."
+"trigger": {
+    "url-filter": "-ad-right."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-rotator-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-rotators/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-scripts\\?"
+"trigger": {
+    "url-filter": "-ad-scripts?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-server/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-shortcodes/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-sidebar-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-sidebar\\."
+"trigger": {
+    "url-filter": "-ad-sidebar."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-strip\\."
+"trigger": {
+    "url-filter": "-ad-strip."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-switcher\\."
+"trigger": {
+    "url-filter": "-ad-switcher."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-text_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-tile\\."
+"trigger": {
+    "url-filter": "-ad-tile."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-top\\."
+"trigger": {
+    "url-filter": "-ad-top."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-unit\\."
+"trigger": {
+    "url-filter": "-ad-unit."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-unit/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-util-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-util\\."
+"trigger": {
+    "url-filter": "-ad-util."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-utility-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad-vertical-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad-zone\\."
+"trigger": {
+    "url-filter": "-ad-zone."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad\\.jpg\\.pagespeed\\."
+"trigger": {
+    "url-filter": "-ad.jpg.pagespeed."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad\\.jpg\\?"
+"trigger": {
+    "url-filter": "-ad.jpg?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad\\.jsp$"
+"trigger": {
+    "url-filter": "-ad.jsp|"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad\\.php\\?"
+"trigger": {
+    "url-filter": "-ad.php?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad/dist/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad/embed\\."
+"trigger": {
+    "url-filter": "-ad/embed."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad/iframe/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad/main\\."
+"trigger": {
+    "url-filter": "-ad/main."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad/right_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad/source/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad0\\."
+"trigger": {
+    "url-filter": "-ad0."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad03\\."
+"trigger": {
+    "url-filter": "-ad03."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad1\\."
+"trigger": {
+    "url-filter": "-ad1."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad2\\."
+"trigger": {
+    "url-filter": "-ad2."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad2_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad3\\."
+"trigger": {
+    "url-filter": "-ad3."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-Ad300x250\\."
+"trigger": {
+    "url-filter": "-Ad300x250."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-Ad300x90-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad4\\."
+"trigger": {
+    "url-filter": "-ad4."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad5\\."
+"trigger": {
+    "url-filter": "-ad5."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ad_125x125\\."
+"trigger": {
+    "url-filter": "-ad_125x125."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad_banner-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad_injector/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ad_leaderboard/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adap\\.",
+"trigger": {
+    "url-filter": "-adap.",
     "unless-domain": ["*l-adap.org"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adbanner\\."
+"trigger": {
+    "url-filter": "-adbanner."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adblack-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adbox-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adcentre\\."
+"trigger": {
+    "url-filter": "-adcentre."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adchain\\."
+"trigger": {
+    "url-filter": "-adchain."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adcompanion\\."
+"trigger": {
+    "url-filter": "-adcompanion."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adfliction\\."
+"trigger": {
+    "url-filter": "-adfliction."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adfliction/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adhelper\\."
+"trigger": {
+    "url-filter": "-adhelper."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adhere2\\."
+"trigger": {
+    "url-filter": "-adhere2."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adimage-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adman/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-admarvel/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adnow\\.",
+"trigger": {
+    "url-filter": "-adnow.",
     "unless-domain": ["*zappistore.com"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adops\\."
+"trigger": {
+    "url-filter": "-adops."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adrotation\\."
+"trigger": {
+    "url-filter": "-adrotation."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-180x"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads-530x85\\."
+"trigger": {
+    "url-filter": "-ads-530x85."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-728x"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads-banner\\."
+"trigger": {
+    "url-filter": "-ads-banner."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads-bottom\\."
+"trigger": {
+    "url-filter": "-ads-bottom."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-Feature-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads-iframe\\."
+"trigger": {
+    "url-filter": "-ads-iframe."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-init&"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-management/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-manager/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-master/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads-ns\\."
+"trigger": {
+    "url-filter": "-ads-ns."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads-placement\\."
+"trigger": {
+    "url-filter": "-ads-placement."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-plugin/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-prod/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads-production\\."
+"trigger": {
+    "url-filter": "-ads-production."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads-right\\."
+"trigger": {
+    "url-filter": "-ads-right."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-rotator/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads-widget/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads-widget\\?"
+"trigger": {
+    "url-filter": "-ads-widget?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads\\.generated\\."
+"trigger": {
+    "url-filter": "-ads.generated."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads\\.gif"
+"trigger": {
+    "url-filter": "-ads.gif"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads\\.js\\?"
+"trigger": {
+    "url-filter": "-ads.js?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads\\.php\\?"
+"trigger": {
+    "url-filter": "-ads.php?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads\\.swf"
+"trigger": {
+    "url-filter": "-ads.swf"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads/728x"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads/ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads/assets/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads/get\\?"
+"trigger": {
+    "url-filter": "-ads/get?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads/img/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads/oas/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads/static-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads/video\\."
+"trigger": {
+    "url-filter": "-ads/video."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ads/videoblaster/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads1\\.htm"
+"trigger": {
+    "url-filter": "-ads1.htm"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads2\\.htm"
+"trigger": {
+    "url-filter": "-ads2.htm"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads3\\.htm"
+"trigger": {
+    "url-filter": "-ads3.htm"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads3\\.jpg"
+"trigger": {
+    "url-filter": "-ads3.jpg"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads4\\.htm"
+"trigger": {
+    "url-filter": "-ads4.htm"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-Ads_728x902\\."
+"trigger": {
+    "url-filter": "-Ads_728x902."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ads_9_3\\."
+"trigger": {
+    "url-filter": "-ads_9_3."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-Ads_Billboard_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adscript\\."
+"trigger": {
+    "url-filter": "-adscript."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adsense2\\."
+"trigger": {
+    "url-filter": "-adsense2."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adserver-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adserver\\."
+"trigger": {
+    "url-filter": "-adserver."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adserver/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adskin\\."
+"trigger": {
+    "url-filter": "-adskin."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adslots\\."
+"trigger": {
+    "url-filter": "-adslots."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adsmanager/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adsonar\\."
+"trigger": {
+    "url-filter": "-adsonar."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adspace\\."
+"trigger": {
+    "url-filter": "-adspace."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adspace_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adSponsors\\."
+"trigger": {
+    "url-filter": "-adSponsors."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adspot-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adsscript\\."
+"trigger": {
+    "url-filter": "-adsscript."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adswizz-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adsystem-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adtechfront\\."
+"trigger": {
+    "url-filter": "-adtechfront."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adtopbanner-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adtrack\\."
+"trigger": {
+    "url-filter": "-adtrack."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-adv-v1/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adv\\.jpg"
+"trigger": {
+    "url-filter": "-adv.jpg"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adv\\.js"
+"trigger": {
+    "url-filter": "-adv.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advert-100x100\\."
+"trigger": {
+    "url-filter": "-advert-100x100."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-Advert-JPEG-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-advert-label-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advert-placeholder\\."
+"trigger": {
+    "url-filter": "-advert-placeholder."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advert\\.jpg\\?"
+"trigger": {
+    "url-filter": "-advert.jpg?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advert\\.swf"
+"trigger": {
+    "url-filter": "-advert.swf"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advert1\\."
+"trigger": {
+    "url-filter": "-advert1."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advert2\\."
+"trigger": {
+    "url-filter": "-advert2."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advert3\\."
+"trigger": {
+    "url-filter": "-advert3."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advert_August\\."
+"trigger": {
+    "url-filter": "-advert_August."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advertise\\.",
-    "unless-domain": ["*i-advertise\\.net", "*mb-advertise\\.gr"]
+"trigger": {
+    "url-filter": "-advertise.",
+    "unless-domain": ["*i-advertise.net", "*mb-advertise.gr"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-advertise/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advertise01\\."
+"trigger": {
+    "url-filter": "-advertise01."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advertisement-icon\\."
+"trigger": {
+    "url-filter": "-advertisement-icon."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-advertisement-management/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advertisement\\."
+"trigger": {
+    "url-filter": "-advertisement."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advertisement/script\\."
+"trigger": {
+    "url-filter": "-advertisement/script."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-advertisement_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-advertising/assets/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-advertising/vast/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advertising11\\."
+"trigger": {
+    "url-filter": "-advertising11."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-advertising2-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-advertising_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-advertisment-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advertorial\\."
+"trigger": {
+    "url-filter": "-advertorial."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adverts\\.libs\\."
+"trigger": {
+    "url-filter": "-adverts.libs."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adverts\\.min\\."
+"trigger": {
+    "url-filter": "-adverts.min."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-advt\\."
+"trigger": {
+    "url-filter": "-advt."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-adwords\\.",
-    "unless-domain": ["*consultant-adwords\\.com", "*consultant-adwords\\.fr", "*freelance-adwords\\.com", "*freelance-adwords\\.fr"]
+"trigger": {
+    "url-filter": "-adwords.",
+    "unless-domain": ["*consultant-adwords.com", "*consultant-adwords.fr", "*freelance-adwords.com", "*freelance-adwords.fr"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-affiliate-link\\."
+"trigger": {
+    "url-filter": "-affiliate-link."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-affiliates/img_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-amazon-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-amazon-apstag/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-article-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-article-ad\\."
+"trigger": {
+    "url-filter": "-article-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-article-ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-article-advert-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-assets/ads\\."
+"trigger": {
+    "url-filter": "-assets/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-auto-ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-banner-768\\."
+"trigger": {
+    "url-filter": "-banner-768."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-banner-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-banner-ad\\."
+"trigger": {
+    "url-filter": "-banner-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-banner-ad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-banner-ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-banner-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-Banner-Advert-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-banner\\.swf\\?"
+"trigger": {
+    "url-filter": "-banner.swf?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-banner300x250\\."
+"trigger": {
+    "url-filter": "-banner300x250."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-banner468x60\\."
+"trigger": {
+    "url-filter": "-banner468x60."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-bannerads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-bg_ads\\."
+"trigger": {
+    "url-filter": "-bg_ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-billboard-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-bin/ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-Block-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-blog-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-book-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-Box-Ad\\."
+"trigger": {
+    "url-filter": "-Box-Ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-box2-ad\\?"
+"trigger": {
+    "url-filter": "-box2-ad?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-cert_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-content-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-content-ad\\."
+"trigger": {
+    "url-filter": "-content-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-ContentAd-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-contest-ad\\."
+"trigger": {
+    "url-filter": "-contest-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-contrib-ads\\."
+"trigger": {
+    "url-filter": "-contrib-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-contrib-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-core-ads\\."
+"trigger": {
+    "url-filter": "-core-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-cpm-ad\\."
+"trigger": {
+    "url-filter": "-cpm-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-cpm-ads\\."
+"trigger": {
+    "url-filter": "-cpm-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-cust-ad\\."
+"trigger": {
+    "url-filter": "-cust-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-dfp-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-dfp-adunits\\."
+"trigger": {
+    "url-filter": "-dfp-adunits."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-display-ads\\."
+"trigger": {
+    "url-filter": "-display-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-doubleclick-plugin/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-doubleclick\\.js"
+"trigger": {
+    "url-filter": "-doubleclick.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-doubleclick\\.min\\.js"
+"trigger": {
+    "url-filter": "-doubleclick.min.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-euads\\."
+"trigger": {
+    "url-filter": "-euads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-fe-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-featured-ads\\."
+"trigger": {
+    "url-filter": "-featured-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-featured-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-feed-ads\\."
+"trigger": {
+    "url-filter": "-feed-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-fleshlight2\\."
+"trigger": {
+    "url-filter": "-fleshlight2."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-floater_ads_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-floorboard-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-footerads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-footerads\\."
+"trigger": {
+    "url-filter": "-footerads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-gallery_ad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-games/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-gif-advert\\."
+"trigger": {
+    "url-filter": "-gif-advert."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-google-ad\\."
+"trigger": {
+    "url-filter": "-google-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-google-ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-google-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-google-adsense\\."
+"trigger": {
+    "url-filter": "-google-adsense."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-google2-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-gpt-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-housead-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-iframe-ad\\."
+"trigger": {
+    "url-filter": "-iframe-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-iframe-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-image-ad\\."
+"trigger": {
+    "url-filter": "-image-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-image/Ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-images/ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-img/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-inspire-ad\\."
+"trigger": {
+    "url-filter": "-inspire-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-intern-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-js-advertising-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-karbonn-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-layer-ad\\."
+"trigger": {
+    "url-filter": "-layer-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-layer-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-leaderboard-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-load-ads\\."
+"trigger": {
+    "url-filter": "-load-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-load-advert\\."
+"trigger": {
+    "url-filter": "-load-advert."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-ltvads\\."
+"trigger": {
+    "url-filter": "-ltvads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-main/ad\\."
+"trigger": {
+    "url-filter": "-main/ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-mid-ad\\."
+"trigger": {
+    "url-filter": "-mid-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-native-ad\\."
+"trigger": {
+    "url-filter": "-native-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-native-ad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-nav-ad\\."
+"trigger": {
+    "url-filter": "-nav-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-NewAd\\."
+"trigger": {
+    "url-filter": "-NewAd."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-news-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-newsletter-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-NewStockAd-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-Online-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-online-advert\\."
+"trigger": {
+    "url-filter": "-online-advert."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-outsidersads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-page-ad\\."
+"trigger": {
+    "url-filter": "-page-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-page-ad\\?"
+"trigger": {
+    "url-filter": "-page-ad?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-page-peel/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-pagead-id\\."
+"trigger": {
+    "url-filter": "-pagead-id."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-PagePeelPro/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-panel-ad\\."
+"trigger": {
+    "url-filter": "-panel-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-panel_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-peel-ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-permads\\."
+"trigger": {
+    "url-filter": "-permads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-plugins-wppas-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-pop-under/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-popexit\\."
+"trigger": {
+    "url-filter": "-popexit."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-popunder\\."
+"trigger": {
+    "url-filter": "-popunder."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-popup-ad\\."
+"trigger": {
+    "url-filter": "-popup-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-popup-ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-pri/adv-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-printhousead-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-publicidad\\."
+"trigger": {
+    "url-filter": "-publicidad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-rail-ads\\."
+"trigger": {
+    "url-filter": "-rail-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-rail-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-rectangle/ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-Results-Sponsored\\."
+"trigger": {
+    "url-filter": "-Results-Sponsored."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-right-ad\\."
+"trigger": {
+    "url-filter": "-right-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-rightrailad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-rollout-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-scrollads\\."
+"trigger": {
+    "url-filter": "-scrollads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-search-ads\\."
+"trigger": {
+    "url-filter": "-search-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-seasonal-ad\\."
+"trigger": {
+    "url-filter": "-seasonal-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-show-ads\\."
+"trigger": {
+    "url-filter": "-show-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-side-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-side-ad\\."
+"trigger": {
+    "url-filter": "-side-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-sidebar-ad\\."
+"trigger": {
+    "url-filter": "-sidebar-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-simple-ads\\."
+"trigger": {
+    "url-filter": "-simple-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-sky-ad\\."
+"trigger": {
+    "url-filter": "-sky-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-Skyscraper-Ad\\."
+"trigger": {
+    "url-filter": "-Skyscraper-Ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-skyscrapper160x600\\."
+"trigger": {
+    "url-filter": "-skyscrapper160x600."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-small-ad\\."
+"trigger": {
+    "url-filter": "-small-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-source/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-sponsor-ad\\."
+"trigger": {
+    "url-filter": "-sponsor-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-SponsorAd\\."
+"trigger": {
+    "url-filter": "-SponsorAd."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-sponsored-links-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-sprite-ad\\."
+"trigger": {
+    "url-filter": "-sprite-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-sticky-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-strip-ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-sync2ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-tag-ad\\."
+"trigger": {
+    "url-filter": "-tag-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-template-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-text-ads\\."
+"trigger": {
+    "url-filter": "-text-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-theme/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-third-ad\\."
+"trigger": {
+    "url-filter": "-third-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-top-ad\\."
+"trigger": {
+    "url-filter": "-top-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-top-ads\\."
+"trigger": {
+    "url-filter": "-top-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-tower-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-us/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-video-ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-web-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-Web-Ad\\."
+"trigger": {
+    "url-filter": "-Web-Ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-Web-Ads\\."
+"trigger": {
+    "url-filter": "-Web-Ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-web-advert-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-Web-Advert\\."
+"trigger": {
+    "url-filter": "-Web-Advert."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-webAd-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-webad1\\."
+"trigger": {
+    "url-filter": "-webad1."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-widget-advertisement/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "-your-ad-here-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "-your-ads-here\\."
+"trigger": {
+    "url-filter": "-your-ads-here."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.1d/ads/"
+"trigger": {
+    "url-filter": ".1d/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.a3s\\?n=.*&zone_id="
+"trigger": {
+    "url-filter": ".a3s?n=*&zone_id="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ace\\.advertising\\."
+"trigger": {
+    "url-filter": ".ace.advertising."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad-cloud\\."
+"trigger": {
+    "url-filter": ".ad-cloud."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad-ocad\\."
+"trigger": {
+    "url-filter": ".ad-ocad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad-sys\\."
+"trigger": {
+    "url-filter": ".ad-sys."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad-target\\."
+"trigger": {
+    "url-filter": ".ad-target."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad-traffic\\."
+"trigger": {
+    "url-filter": ".ad-traffic."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad\\.final\\."
+"trigger": {
+    "url-filter": ".ad.final."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad\\.footer\\+"
+"trigger": {
+    "url-filter": ".ad.footer+"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad\\.footer\\."
+"trigger": {
+    "url-filter": ".ad.footer."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad\\.json\\?"
+"trigger": {
+    "url-filter": ".ad.json?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad\\.page\\."
+"trigger": {
+    "url-filter": ".ad.page."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad\\.premiere\\."
+"trigger": {
+    "url-filter": ".ad.premiere."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad\\.wrapper\\."
+"trigger": {
+    "url-filter": ".ad.wrapper."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad/tag\\."
+"trigger": {
+    "url-filter": ".ad/tag."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad1\\.nspace"
+"trigger": {
+    "url-filter": ".ad1.nspace"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad6media\\.",
-    "unless-domain": ["*ad6media\\.fr"]
+"trigger": {
+    "url-filter": ".ad6media.",
+    "unless-domain": ["*ad6media.fr"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ad_home_"
+"trigger": {
+    "url-filter": ".ad_home_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adbanner\\."
+"trigger": {
+    "url-filter": ".adbanner."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adbutler-"
+"trigger": {
+    "url-filter": ".adbutler-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adcenter\\.",
-    "unless-domain": ["adcenter\\.nu"]
+"trigger": {
+    "url-filter": ".adcenter.",
+    "unless-domain": ["adcenter.nu"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adengine\\."
+"trigger": {
+    "url-filter": ".adengine."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adforge\\."
+"trigger": {
+    "url-filter": ".adforge."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adframesrc\\."
+"trigger": {
+    "url-filter": ".adframesrc."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adgearpubs\\."
+"trigger": {
+    "url-filter": ".adgearpubs."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adgoitechnologie\\."
+"trigger": {
+    "url-filter": ".adgoitechnologie."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adinject\\.",
-    "unless-domain": ["*adinject\\.com"]
+"trigger": {
+    "url-filter": ".adinject.",
+    "unless-domain": ["*adinject.com"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adlabs\\.",
-    "unless-domain": ["*adlabs\\.ru"]
+"trigger": {
+    "url-filter": ".adlabs."
+    "unless-domain": ["*adlabs.ru"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.admarvel\\."
+"trigger": {
+    "url-filter": ".admarvel."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.admicro\\."
+"trigger": {
+    "url-filter": ".admicro."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adnetwork\\.",
-    "unless-domain": ["*adnetwork\\.ie", "*adnetwork\\.sk"]
+"trigger": {
+    "url-filter": ".adnetwork.",
+    "unless-domain": ["*adnetwork.ie", "*adnetwork.sk"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adnigma\\."
+"trigger": {
+    "url-filter": ".adnigma."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adnwif\\."
+"trigger": {
+    "url-filter": ".adnwif."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adpartner\\.",
-    "unless-domain": ["*adpartner\\.cz"]
+"trigger": {
+    "url-filter": ".adpartner.",
+    "unless-domain": ["*adpartner.cz"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adpIds="
+"trigger": {
+    "url-filter": ".adpIds="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adplacement="
+"trigger": {
+    "url-filter": ".adplacement="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adresult\\.",
-    "unless-domain": ["*adresult\\.ch"]
+"trigger": {
+    "url-filter": ".adresult.",
+    "unless-domain": ["*adresult.ch"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adriver\\.",
-    "resource-type": ["svg-document", "media"]
+"trigger": {
+    "url-filter": ".adriver.",
+    "resource-type": ["svg", "media"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adrotate\\."
+"trigger": {
+    "url-filter": ".adrotate."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adru\\."
+"trigger": {
+    "url-filter": ".adru."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads-and-tracking\\."
+"trigger": {
+    "url-filter": ".ads-and-tracking."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads-lazy\\."
+"trigger": {
+    "url-filter": ".ads-lazy."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads-min\\."
+"trigger": {
+    "url-filter": ".ads-min."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads-tool\\."
+"trigger": {
+    "url-filter": ".ads-tool."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads\\.controller\\."
+"trigger": {
+    "url-filter": ".ads.controller."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads\\.core\\."
+"trigger": {
+    "url-filter": ".ads.core."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads\\.css"
+"trigger": {
+    "url-filter": ".ads.css"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads\\.darla\\."
+"trigger": {
+    "url-filter": ".ads.darla."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads\\.loader-"
+"trigger": {
+    "url-filter": ".ads.loader-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads\\.zones\\."
+"trigger": {
+    "url-filter": ".ads.zones."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads1-"
+"trigger": {
+    "url-filter": ".ads1-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads1\\."
+"trigger": {
+    "url-filter": ".ads1."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads2-"
+"trigger": {
+    "url-filter": ".ads2-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads3-"
+"trigger": {
+    "url-filter": ".ads3-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads4-"
+"trigger": {
+    "url-filter": ".ads4-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads5-"
+"trigger": {
+    "url-filter": ".ads5-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads9\\."
+"trigger": {
+    "url-filter": ".ads9."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ads_clickthru\\."
+"trigger": {
+    "url-filter": ".ads_clickthru."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adsales\\."
+"trigger": {
+    "url-filter": ".adsales."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adsame-"
+"trigger": {
+    "url-filter": ".adsame-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adsbox\\.",
-    "unless-domain": ["*adsbox\\.in"]
+"trigger": {
+    "url-filter": ".adsbox.",
+    "unless-domain": ["*adsbox.in"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adsby\\."
+"trigger": {
+    "url-filter": ".adsby."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adsdk\\."
+"trigger": {
+    "url-filter": ".adsdk."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adsense\\."
+"trigger": {
+    "url-filter": ".adsense."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adserv/"
+"trigger": {
+    "url-filter": ".adserv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adserve\\."
+"trigger": {
+    "url-filter": ".adserve."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adserve2\\."
+"trigger": {
+    "url-filter": ".adserve2."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adserver\\."
+"trigger": {
+    "url-filter": ".adserver."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adserver01\\."
+"trigger": {
+    "url-filter": ".adserver01."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adserver1\\."
+"trigger": {
+    "url-filter": ".adserver1."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adService\\.",
-    "unless-domain": ["*adservice\\.com"]
+"trigger": {
+    "url-filter": ".adService.",
+    "unless-domain": ["*adservice.com"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adspace\\."
+"trigger": {
+    "url-filter": ".adspace."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adsremote\\."
+"trigger": {
+    "url-filter": ".adsremote."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adsync\\."
+"trigger": {
+    "url-filter": ".adsync."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adtech_"
+"trigger": {
+    "url-filter": ".adtech_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adtooltip&"
+"trigger": {
+    "url-filter": ".adtooltip&"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adv\\.cdn\\."
+"trigger": {
+    "url-filter": ".adv.cdn."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.advert\\.",
-    "unless-domain": ["*advert\\.ae", "*advert\\.io", "*advert\\.ly"]
+"trigger": {
+    "url-filter": ".advert.",
+    "unless-domain": ["*advert.ae", "*advert.io", "*advert.ly"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.AdvertismentBottom\\."
+"trigger": {
+    "url-filter": ".AdvertismentBottom."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.advertmarket\\."
+"trigger": {
+    "url-filter": ".advertmarket."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.advertrecycling\\."
+"trigger": {
+    "url-filter": ".advertrecycling."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.adwolf\\."
+"trigger": {
+    "url-filter": ".adwolf."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ae/ads/"
+"trigger": {
+    "url-filter": ".ae/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ai/ads\\."
+"trigger": {
+    "url-filter": ".ai/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.am/adv/"
+"trigger": {
+    "url-filter": ".am/adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ar/ads/"
+"trigger": {
+    "url-filter": ".ar/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ashx\\?ad="
+"trigger": {
+    "url-filter": ".ashx?ad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ashx\\?AdID="
+"trigger": {
+    "url-filter": ".ashx?AdID="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.asp\\?coad"
+"trigger": {
+    "url-filter": ".asp?coad"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.aspx\\?ad="
+"trigger": {
+    "url-filter": ".aspx?ad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.aspx\\?adid="
+"trigger": {
+    "url-filter": ".aspx?adid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.at/ads/"
+"trigger": {
+    "url-filter": ".at/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.au/ads/"
+"trigger": {
+    "url-filter": ".au/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.az/adv/"
+"trigger": {
+    "url-filter": ".az/adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.banner%20ad\\."
+"trigger": {
+    "url-filter": ".banner%20ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.bbn\\.by/"
+"trigger": {
+    "url-filter": ".bbn.by/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.be/ads/"
+"trigger": {
+    "url-filter": ".be/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.biz/ad\\."
+"trigger": {
+    "url-filter": ".biz/ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.biz/ad/"
+"trigger": {
+    "url-filter": ".biz/ad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.biz/ad2/"
+"trigger": {
+    "url-filter": ".biz/ad2/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.biz/ads/"
+"trigger": {
+    "url-filter": ".biz/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.bns1\\.net/"
+"trigger": {
+    "url-filter": ".bns1.net/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.box\\.ad\\."
+"trigger": {
+    "url-filter": ".box.ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.br/ads/"
+"trigger": {
+    "url-filter": ".br/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.bz/ads/"
+"trigger": {
+    "url-filter": ".bz/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ca/ads-"
+"trigger": {
+    "url-filter": ".ca/ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ca/ads/"
+"trigger": {
+    "url-filter": ".ca/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.cc/ads/"
+"trigger": {
+    "url-filter": ".cc/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.cfm\\?ad="
+"trigger": {
+    "url-filter": ".cfm?ad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.cfm\\?advideo%"
+"trigger": {
+    "url-filter": ".cfm?advideo%"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.cgi\\?ad="
+"trigger": {
+    "url-filter": ".cgi?ad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ch/ads/"
+"trigger": {
+    "url-filter": ".ch/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ch/adv/"
+"trigger": {
+    "url-filter": ".ch/adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.clkads\\."
+"trigger": {
+    "url-filter": ".clkads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.club/ads\\."
+"trigger": {
+    "url-filter": ".club/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.co/ads/"
+"trigger": {
+    "url-filter": ".co/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.co/ads\\?"
+"trigger": {
+    "url-filter": ".co/ads?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/\\?ad="
+"trigger": {
+    "url-filter": ".com/?ad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/\\?wid="
+"trigger": {
+    "url-filter": ".com/?wid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/a\\?network"
+"trigger": {
+    "url-filter": ".com/a?network"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/a\\?pagetype"
+"trigger": {
+    "url-filter": ".com/a?pagetype"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/a\\?size"
+"trigger": {
+    "url-filter": ".com/a?size"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ad\\.",
-    "unless-domain": ["*ad-tuning\\.de"]
+"trigger": {
+    "url-filter": ".com/ad.",
+    "unless-domain": ["*ad-tuning.de"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ad/",
-    "unless-domain": ["*mediaplex\\.com"],
+"trigger": {
+    "url-filter": ".com/ad/",
+    "unless-domain": ["*mediaplex.com"],
     "resource-type": ["image"],
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ad/",
-    "unless-domain": ["*blogs\\.technet\\.microsoft\\.com", "channel4\\.com", "cspace\\.com", "linkedin\\.com", "mediaplex\\.com", "online\\.wsj\\.com"],
+"trigger": {
+    "url-filter": ".com/ad/",
+    "unless-domain": ["*blogs.technet.microsoft.com", "channel4.com", "cspace.com", "linkedin.com", "mediaplex.com", "online.wsj.com"],
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ad1/"
+"trigger": {
+    "url-filter": ".com/ad1/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ad2/"
+"trigger": {
+    "url-filter": ".com/ad2/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ad6/"
+"trigger": {
+    "url-filter": ".com/ad6/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ad\\?"
+"trigger": {
+    "url-filter": ".com/ad?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adclk\\?"
+"trigger": {
+    "url-filter": ".com/adclk?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adds/"
+"trigger": {
+    "url-filter": ".com/adds/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adgallery"
+"trigger": {
+    "url-filter": ".com/adgallery"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adinf/"
+"trigger": {
+    "url-filter": ".com/adinf/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adlib/"
+"trigger": {
+    "url-filter": ".com/adlib/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adlib_"
+"trigger": {
+    "url-filter": ".com/adlib_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adpicture"
+"trigger": {
+    "url-filter": ".com/adpicture"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ads-"
+"trigger": {
+    "url-filter": ".com/ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ads\\."
+"trigger": {
+    "url-filter": ".com/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ads/",
+"trigger": {
+    "url-filter": ".com/ads/",
     "resource-type": ["image", "media", "popup"],
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ads\\?"
+"trigger": {
+    "url-filter": ".com/ads?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ads_"
+"trigger": {
+    "url-filter": ".com/ads_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adv/"
+"trigger": {
+    "url-filter": ".com/adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adv3/"
+"trigger": {
+    "url-filter": ".com/adv3/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adv\\?"
+"trigger": {
+    "url-filter": ".com/adv?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adv_"
+"trigger": {
+    "url-filter": ".com/adv_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/advs-"
+"trigger": {
+    "url-filter": ".com/advs-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adx/"
+"trigger": {
+    "url-filter": ".com/adx/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adx_"
+"trigger": {
+    "url-filter": ".com/adx_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/adz/"
+"trigger": {
+    "url-filter": ".com/adz/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/bads/"
+"trigger": {
+    "url-filter": ".com/bads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/doubleclick/"
+"trigger": {
+    "url-filter": ".com/doubleclick/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/gads/"
+"trigger": {
+    "url-filter": ".com/gads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/im-ad/"
+"trigger": {
+    "url-filter": ".com/im-ad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/im_ad/"
+"trigger": {
+    "url-filter": ".com/im_ad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/iplgadshow"
+"trigger": {
+    "url-filter": ".com/iplgadshow"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/js\\.ng/"
+"trigger": {
+    "url-filter": ".com/js.ng/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/js/ad\\."
+"trigger": {
+    "url-filter": ".com/js/ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/js/ads/"
+"trigger": {
+    "url-filter": ".com/js/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/js/adsense"
+"trigger": {
+    "url-filter": ".com/js/adsense"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/miads/"
+"trigger": {
+    "url-filter": ".com/miads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ntfc\\.php\\?",
+"trigger": {
+    "url-filter": ".com/ntfc.php?",
     "resource-type": ["script"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/peels/"
+"trigger": {
+    "url-filter": ".com/peels/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/pm/ad-"
+"trigger": {
+    "url-filter": ".com/pm/ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/promodisplay\\?"
+"trigger": {
+    "url-filter": ".com/promodisplay?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/ss/ad/"
+"trigger": {
+    "url-filter": ".com/ss/ad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.com/video-ad-"
+"trigger": {
+    "url-filter": ".com/video-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.cyad1\\."
+"trigger": {
+    "url-filter": ".cyad1."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.cz/affil/"
+"trigger": {
+    "url-filter": ".cz/affil/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.cz/bannery/"
+"trigger": {
+    "url-filter": ".cz/bannery/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.dartconfig\\.js"
+"trigger": {
+    "url-filter": ".dartconfig.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.digital/ads/"
+"trigger": {
+    "url-filter": ".digital/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.displayAds&"
+"trigger": {
+    "url-filter": ".displayAds&"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ec/ads/"
+"trigger": {
+    "url-filter": ".ec/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.eg/ads/"
+"trigger": {
+    "url-filter": ".eg/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.es/ads/"
+"trigger": {
+    "url-filter": ".es/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.es/adv/"
+"trigger": {
+    "url-filter": ".es/adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.eu/ads/"
+"trigger": {
+    "url-filter": ".eu/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.eu/adv/"
+"trigger": {
+    "url-filter": ".eu/adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.exp_ad-"
+"trigger": {
+    "url-filter": ".exp_ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.fi/ads/"
+"trigger": {
+    "url-filter": ".fi/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.fm/ads/"
+"trigger": {
+    "url-filter": ".fm/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.fr/ads\\."
+"trigger": {
+    "url-filter": ".fr/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ga/ads\\."
+"trigger": {
+    "url-filter": ".ga/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.gg/ads/"
+"trigger": {
+    "url-filter": ".gg/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.gif\\?ad="
+"trigger": {
+    "url-filter": ".gif?ad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.GoogleDfpSlot\\."
+"trigger": {
+    "url-filter": ".GoogleDfpSlot."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.gr/ads/"
+"trigger": {
+    "url-filter": ".gr/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.hk/ads/"
+"trigger": {
+    "url-filter": ".hk/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.homad\\."
+"trigger": {
+    "url-filter": ".homad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.HomepageAdvertismentBottom\\."
+"trigger": {
+    "url-filter": ".HomepageAdvertismentBottom."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.hr/ads\\."
+"trigger": {
+    "url-filter": ".hr/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.html\\?ad="
+"trigger": {
+    "url-filter": ".html?ad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.html\\?ad_"
+"trigger": {
+    "url-filter": ".html?ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.html\\?clicktag="
+"trigger": {
+    "url-filter": ".html?clicktag="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.iads\\.js"
+"trigger": {
+    "url-filter": ".iads.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ie/ads/"
+"trigger": {
+    "url-filter": ".ie/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.il/ads\\."
+"trigger": {
+    "url-filter": ".il/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.il/ads/"
+"trigger": {
+    "url-filter": ".il/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.im/ntfc\\.php\\?",
-    "resource-type": ["script"]
+"trigger": {
+    "url-filter": ".im/ntfc.php?",
+    "resource-type": ["script",]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.in/ads\\."
+"trigger": {
+    "url-filter": ".in/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.in/ads/"
+"trigger": {
+    "url-filter": ".in/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.info/ad_"
+"trigger": {
+    "url-filter": ".info/ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.info/ads-"
+"trigger": {
+    "url-filter": ".info/ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.info/ads/"
+"trigger": {
+    "url-filter": ".info/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.initdoubleclickadselementcontent\\?"
+"trigger": {
+    "url-filter": ".initdoubleclickadselementcontent?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.intad\\."
+"trigger": {
+    "url-filter": ".intad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.intad/"
+"trigger": {
+    "url-filter": ".intad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.internads\\."
+"trigger": {
+    "url-filter": ".internads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.io/ads\\."
+"trigger": {
+    "url-filter": ".io/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.is/ads/"
+"trigger": {
+    "url-filter": ".is/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.jp/ads/"
+"trigger": {
+    "url-filter": ".jp/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.js\\?dfp="
+"trigger": {
+    "url-filter": ".js?dfp="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.jsp\\?adcode="
+"trigger": {
+    "url-filter": ".jsp?adcode="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ke/ads/"
+"trigger": {
+    "url-filter": ".ke/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.lazyad-"
+"trigger": {
+    "url-filter": ".lazyad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.lazyload-ad-"
+"trigger": {
+    "url-filter": ".lazyload-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.lazyload-ad\\."
+"trigger": {
+    "url-filter": ".lazyload-ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.link/ads/"
+"trigger": {
+    "url-filter": ".link/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.lk/ads/"
+"trigger": {
+    "url-filter": ".lk/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.me/ads-"
+"trigger": {
+    "url-filter": ".me/ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.me/ads/"
+"trigger": {
+    "url-filter": ".me/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.mobileads\\."
+"trigger": {
+    "url-filter": ".mobileads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.mv/ads/"
+"trigger": {
+    "url-filter": ".mv/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.mx/ads/"
+"trigger": {
+    "url-filter": ".mx/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.my/ads/"
+"trigger": {
+    "url-filter": ".my/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.name/ads/"
+"trigger": {
+    "url-filter": ".name/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.nativeads\\."
+"trigger": {
+    "url-filter": ".nativeads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/_adv/"
+"trigger": {
+    "url-filter": ".net/_adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/ad-"
+"trigger": {
+    "url-filter": ".net/ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/ad/",
-    "resource-type": ["media"]
+"trigger": {
+    "url-filter": ".net/ad/",
+    "resource-type": ["media"],
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/ad2/"
+"trigger": {
+    "url-filter": ".net/ad2/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/ad_"
+"trigger": {
+    "url-filter": ".net/ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/adgallery"
+"trigger": {
+    "url-filter": ".net/adgallery"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/adj;"
+"trigger": {
+    "url-filter": ".net/adj;"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/ads-"
+"trigger": {
+    "url-filter": ".net/ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/ads\\."
+"trigger": {
+    "url-filter": ".net/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/ads/"
+"trigger": {
+    "url-filter": ".net/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/ads\\?"
+"trigger": {
+    "url-filter": ".net/ads?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/ads_"
+"trigger": {
+    "url-filter": ".net/ads_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/adt\\?"
+"trigger": {
+    "url-filter": ".net/adt?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/adv/"
+"trigger": {
+    "url-filter": ".net/adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/affiliate/"
+"trigger": {
+    "url-filter": ".net/affiliate/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/bnr/"
+"trigger": {
+    "url-filter": ".net/bnr/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/flashads"
+"trigger": {
+    "url-filter": ".net/flashads"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/gads/"
+"trigger": {
+    "url-filter": ".net/gads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/noidadx/"
+"trigger": {
+    "url-filter": ".net/noidadx/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/pfadj/"
+"trigger": {
+    "url-filter": ".net/pfadj/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/pops\\.js"
+"trigger": {
+    "url-filter": ".net/pops.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.net/vghd_"
+"trigger": {
+    "url-filter": ".net/vghd_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ng/ads/"
+"trigger": {
+    "url-filter": ".ng/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.nl/ad2/"
+"trigger": {
+    "url-filter": ".nl/ad2/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.nl/ads/"
+"trigger": {
+    "url-filter": ".nl/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.no/ads/"
+"trigger": {
+    "url-filter": ".no/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.nu/ads/"
+"trigger": {
+    "url-filter": ".nu/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.nz/ads/"
+"trigger": {
+    "url-filter": ".nz/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.oasfile\\."
+"trigger": {
+    "url-filter": ".oasfile."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.oastagging\\."
+"trigger": {
+    "url-filter": ".oastagging."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.online/ads/"
+"trigger": {
+    "url-filter": ".online/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.openad\\.",
+"trigger": {
+    "url-filter": ".openad.",
     "unless-domain": ["*openad.lv"]
 }, "action": {
     "type": "block"
 }
-},
-{ "trigger": {
-    "url-filter": "\\.openx\\.",
+"trigger": {
+    "url-filter": ".openx.",
     "unless-domain": ["*openx.com"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.openxtag\\."
+"trigger": {
+    "url-filter": ".openxtag."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/ad-"
+"trigger": {
+    "url-filter": ".org/ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/ad\\."
+"trigger": {
+    "url-filter": ".org/ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/ad/"
+"trigger": {
+    "url-filter": ".org/ad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/ad_"
+"trigger": {
+    "url-filter": ".org/ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/adgallery1"
+"trigger": {
+    "url-filter": ".org/adgallery1"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/ads-"
+"trigger": {
+    "url-filter": ".org/ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/ads/"
+"trigger": {
+    "url-filter": ".org/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/ads_"
+"trigger": {
+    "url-filter": ".org/ads_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/adv/"
+"trigger": {
+    "url-filter": ".org/adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/exit\\.js"
+"trigger": {
+    "url-filter": ".org/exit.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/gads/"
+"trigger": {
+    "url-filter": ".org/gads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.org/pops\\.js"
+"trigger": {
+    "url-filter": ".org/pops.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ph/ads/"
+"trigger": {
+    "url-filter": ".ph/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php/ad/"
+"trigger": {
+    "url-filter": ".php/ad/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php/ads/"
+"trigger": {
+    "url-filter": ".php/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?ad="
+"trigger": {
+    "url-filter": ".php?ad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?ad_"
+"trigger": {
+    "url-filter": ".php?ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?adsid="
+"trigger": {
+    "url-filter": ".php?adsid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?adv="
+"trigger": {
+    "url-filter": ".php?adv="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?adv_"
+"trigger": {
+    "url-filter": ".php?adv_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?affid=",
+"trigger": {
+    "url-filter": ".php?affid=",
     "unless-domain": ["*cancun-discounts.com"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?clicktag="
+"trigger": {
+    "url-filter": ".php?clicktag="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?id=ads_"
+"trigger": {
+    "url-filter": ".php?id=ads_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?nats="
+"trigger": {
+    "url-filter": ".php?nats="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?zone_id="
+"trigger": {
+    "url-filter": ".php?zone_id="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.php\\?zoneid="
+"trigger": {
+    "url-filter": ".php?zoneid="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.pj\\?adv="
+"trigger": {
+    "url-filter": ".pj?adv="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.pk/ads/"
+"trigger": {
+    "url-filter": ".pk/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.pl/ads/"
+"trigger": {
+    "url-filter": ".pl/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.popunder\\.js"
+"trigger": {
+    "url-filter": ".popunder.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.popup_im\\."
+"trigger": {
+    "url-filter": ".popup_im."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.popupvideoad\\."
+"trigger": {
+    "url-filter": ".popupvideoad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.propellerads\\."
+"trigger": {
+    "url-filter": ".propellerads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.pw/ads/"
+"trigger": {
+    "url-filter": ".pw/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.refit\\.ads\\."
+"trigger": {
+    "url-filter": ".refit.ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.refreshAds\\."
+"trigger": {
+    "url-filter": ".refreshAds."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ro/ads/"
+"trigger": {
+    "url-filter": ".ro/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.rolloverad\\."
+"trigger": {
+    "url-filter": ".rolloverad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ru/ads/"
+"trigger": {
+    "url-filter": ".ru/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.se/.*placement=",
+"trigger": {
+    "url-filter": ".se/*placement=",
     "resource-type": ["script", "media"],
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.se/.*redirect&",
+"trigger": {
+    "url-filter": ".se/*redirect&",
     "resource-type": ["script", "media"],
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.se/ads/"
+"trigger": {
+    "url-filter": ".se/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.sh/ads/"
+"trigger": {
+    "url-filter": ".sh/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.shortcuts\\.search\\."
+"trigger": {
+    "url-filter": ".shortcuts.search."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.show_ad_"
+"trigger": {
+    "url-filter": ".show_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.sk/ads/"
+"trigger": {
+    "url-filter": ".sk/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.sponsorads\\."
+"trigger": {
+    "url-filter": ".sponsorads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.streamads\\."
+"trigger": {
+    "url-filter": ".streamads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\?1&clicktag="
+"trigger": {
+    "url-filter": ".swf?1&clicktag="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\\\?2&clicktag="
+"trigger": {
+    "url-filter": ".swf?2&clicktag="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\\\?ad="
+"trigger": {
+    "url-filter": ".swf?ad="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\\\?click="
+"trigger": {
+    "url-filter": ".swf?click="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\?clicktag="
+"trigger": {
+    "url-filter": ".swf?clicktag="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\?clickthru="
+"trigger": {
+    "url-filter": ".swf?clickthru="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\?iurl=http"
+"trigger": {
+    "url-filter": ".swf?iurl=http"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\?link1=http"
+"trigger": {
+    "url-filter": ".swf?link1=http"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\?link=http"
+"trigger": {
+    "url-filter": ".swf?link=http"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.swf\\?popupiniframe="
+"trigger": {
+    "url-filter": ".swf?popupiniframe="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.text-link-ads\\."
+"trigger": {
+    "url-filter": ".text-link-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.textads\\."
+"trigger": {
+    "url-filter": ".textads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.th/ads/"
+"trigger": {
+    "url-filter": ".th/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.theadtech\\."
+"trigger": {
+    "url-filter": ".theadtech."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.to/ads/"
+"trigger": {
+    "url-filter": ".to/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.topad\\."
+"trigger": {
+    "url-filter": ".topad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.tv/adl\\."
+"trigger": {
+    "url-filter": ".tv/adl."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.tv/ads\\."
+"trigger": {
+    "url-filter": ".tv/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.tv/ads/"
+"trigger": {
+    "url-filter": ".tv/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.twoads\\."
+"trigger": {
+    "url-filter": ".twoads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.tz/ads/"
+"trigger": {
+    "url-filter": ".tz/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.uk/ads\\."
+"trigger": {
+    "url-filter": ".uk/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.uk/ads/"
+"trigger": {
+    "url-filter": ".uk/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.uk/adv/"
+"trigger": {
+    "url-filter": ".uk/adv/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.us/ad/.*\\?"
+"trigger": {
+    "url-filter": ".us/ad/*?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.us/ads\\."
+"trigger": {
+    "url-filter": ".us/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.us/ads/"
+"trigger": {
+    "url-filter": ".us/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.utils\\.ads\\."
+"trigger": {
+    "url-filter": ".utils.ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.vert\\.ad\\."
+"trigger": {
+    "url-filter": ".vert.ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.videoad3\\."
+"trigger": {
+    "url-filter": ".videoad3."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.videoad4\\."
+"trigger": {
+    "url-filter": ".videoad4."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.weborama\\.js"
+"trigger": {
+    "url-filter": ".weborama.js"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.widgets\\.ad\\?"
+"trigger": {
+    "url-filter": ".widgets.ad?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.win/ads/"
+"trigger": {
+    "url-filter": ".win/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.ws/ads/"
+"trigger": {
+    "url-filter": ".ws/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.xinhuanetAD\\."
+"trigger": {
+    "url-filter": ".xinhuanetAD."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.xxx/ads/"
+"trigger": {
+    "url-filter": ".xxx/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.xyz/ads/"
+"trigger": {
+    "url-filter": ".xyz/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.za/ads\\."
+"trigger": {
+    "url-filter": ".za/ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.za/ads/"
+"trigger": {
+    "url-filter": ".za/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.zm/ads/"
+"trigger": {
+    "url-filter": ".zm/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "\\.zw/ads/"
+"trigger": {
+    "url-filter": ".zw/ads/"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/!advert_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/0/ads/.*"
+"trigger": {
+    "url-filter": "/0/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/04/ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/1/ads/.*",
+"trigger": {
+    "url-filter": "/1/ads/*",
     "resource-type": ["image"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/1/ads_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/120ad\\."
+"trigger": {
+    "url-filter": "/120ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/120ads/.*"
+"trigger": {
+    "url-filter": "/120ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/125ads/.*"
+"trigger": {
+    "url-filter": "/125ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/125x125_ADS/.*"
+"trigger": {
+    "url-filter": "/125x125_ADS/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/125x125_banner\\."
+"trigger": {
+    "url-filter": "/125x125_banner."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/125x125ad\\."
+"trigger": {
+    "url-filter": "/125x125ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/126_ad\\."
+"trigger": {
+    "url-filter": "/126_ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/160_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/17/ads/.*"
+"trigger": {
+    "url-filter": "/17/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/1912/ads/.*"
+"trigger": {
+    "url-filter": "/1912/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/1afr\\.php\\?"
+"trigger": {
+    "url-filter": "/1afr.php?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/2/ads/.*",
+"trigger": {
+    "url-filter": "/2/ads/*",
     "resource-type": ["image"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/2010/ads/.*"
+"trigger": {
+    "url-filter": "/2010/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/2010main/ad/.*"
+"trigger": {
+    "url-filter": "/2010main/ad/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/2011/ads/.*"
+"trigger": {
+    "url-filter": "/2011/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/2013/ad/.*"
+"trigger": {
+    "url-filter": "/2013/ad/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/2013/ads/.*"
+"trigger": {
+    "url-filter": "/2013/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/2014/ads/.*"
+"trigger": {
+    "url-filter": "/2014/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/2015/ads/.*"
+"trigger": {
+    "url-filter": "/2015/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/2018-ads-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/24-7ads\\."
+"trigger": {
+    "url-filter": "/24-7ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/24adscript\\."
+"trigger": {
+    "url-filter": "/24adscript."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/250x250-adverts\\."
+"trigger": {
+    "url-filter": "/250x250-adverts."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/250x250_advert_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/300-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/300250_ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/300_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/300ad\\."
+"trigger": {
+    "url-filter": "/300ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/300by250ad\\."
+"trigger": {
+    "url-filter": "/300by250ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/300x250ad\\."
+"trigger": {
+    "url-filter": "/300x250ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/300x250adbg\\."
+"trigger": {
+    "url-filter": "/300x250adbg."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/300x250ads\\."
+"trigger": {
+    "url-filter": "/300x250ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/300x250advert\\."
+"trigger": {
+    "url-filter": "/300x250advert."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/300x500_ad"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/336x280ads\\."
+"trigger": {
+    "url-filter": "/336x280ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/3_ads\\."
+"trigger": {
+    "url-filter": "/3_ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/3pt_ads\\."
+"trigger": {
+    "url-filter": "/3pt_ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/468-banner\\."
+"trigger": {
+    "url-filter": "/468-banner."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/468ad\\."
+"trigger": {
+    "url-filter": "/468ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/468x60ad\\."
+"trigger": {
+    "url-filter": "/468x60ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/468xads\\."
+"trigger": {
+    "url-filter": "/468xads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/658x96xadv_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/728_ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/728x80topad\\."
+"trigger": {
+    "url-filter": "/728x80topad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/728x90banner\\."
+"trigger": {
+    "url-filter": "/728x90banner."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/768x90ad\\."
+"trigger": {
+    "url-filter": "/768x90ad."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/\\?addyn.*"
+"trigger": {
+    "url-filter": "/?addyn|*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/\\?adv_partner"
+"trigger": {
+    "url-filter": "/?adv_partner"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/\\?advideo/.*"
+"trigger": {
+    "url-filter": "/?advideo/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/\\?view=ad"
+"trigger": {
+    "url-filter": "/?view=ad"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/_/ads/.*"
+"trigger": {
+    "url-filter": "/_/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/_30/ads/.*"
+"trigger": {
+    "url-filter": "/_30/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/__adstop\\."
+"trigger": {
+    "url-filter": "/__adstop."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/_ads/.*"
+"trigger": {
+    "url-filter": "/_ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/_affiliatebanners/.*"
+"trigger": {
+    "url-filter": "/_affiliatebanners/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/_global/ads/.*"
+"trigger": {
+    "url-filter": "/_global/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/_img/ad_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/_js2/oas\\."
+"trigger": {
+    "url-filter": "/_js2/oas."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/_scripts/_oas/.*"
+"trigger": {
+    "url-filter": "/_scripts/_oas/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/_svc/ad/.*"
+"trigger": {
+    "url-filter": "/_svc/ad/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/a-ads\\.",
+"trigger": {
+    "url-filter": "/a-ads.",
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/a/ads/.*"
+"trigger": {
+    "url-filter": "/a/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/a/display\\.php\\?"
+"trigger": {
+    "url-filter": "/a/display.php?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/a1/.*\\?sub=",
+"trigger": {
+    "url-filter": "/a1/*?sub=",
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/a2/\\?sub=",
+"trigger": {
+    "url-filter": "/a2/?sub=",
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/a2/ads/.*"
+"trigger": {
+    "url-filter": "/a2/ads/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/a3/\\?sub=",
+"trigger": {
+    "url-filter": "/a3/?sub=",
     "load-type": ["third-party"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/a7delivery_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/aa/www/.*"
+"trigger": {
+    "url-filter": "/aa/www/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/aamsz="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ABAdsv1\\."
+"trigger": {
+    "url-filter": "/ABAdsv1."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/abm\\.asp\\?"
+"trigger": {
+    "url-filter": "/abm.asp?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/abm\\.aspx"
+"trigger": {
+    "url-filter": "/abm.aspx"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/abmw\\.asp"
+"trigger": {
+    "url-filter": "/abmw.asp"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/abmw/.*"
+"trigger": {
+    "url-filter": "/abmw/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/abnl/\\?begun[/:]"
+"trigger": {
+    "url-filter": "/abnl/?begun^"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/abnl/\\?narodads[/:]"
+"trigger": {
+    "url-filter": "/abnl/?narodads^"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/about-these-ads\\."
+"trigger": {
+    "url-filter": "/about-these-ads."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/absolutebm\\.aspx\\?"
+"trigger": {
+    "url-filter": "/absolutebm.aspx?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/abvAds_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/AbvProductAds/.*"
+"trigger": {
+    "url-filter": "/AbvProductAds/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/acc_random="
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/active-ad-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad%20banners/.*"
+"trigger": {
+    "url-filter": "/ad%20banners/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad%20images/.*"
+"trigger": {
+    "url-filter": "/ad%20images/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-125\\."
+"trigger": {
+    "url-filter": "/ad-125."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-300topleft\\."
+"trigger": {
+    "url-filter": "/ad-300topleft."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-300x250\\."
+"trigger": {
+    "url-filter": "/ad-300x250."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-300x254\\."
+"trigger": {
+    "url-filter": "/ad-300x254."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-300x300\\."
+"trigger": {
+    "url-filter": "/ad-300x300."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-350x350-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-400\\."
+"trigger": {
+    "url-filter": "/ad-400."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-410x300\\."
+"trigger": {
+    "url-filter": "/ad-410x300."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-468-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-600-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/AD-970x90\\."
+"trigger": {
+    "url-filter": "/AD-970x90."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-ace/.*"
+"trigger": {
+    "url-filter": "/ad-ace/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-amz\\."
+"trigger": {
+    "url-filter": "/ad-amz."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-api-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-api/.*"
+"trigger": {
+    "url-filter": "/ad-api/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-audit\\."
+"trigger": {
+    "url-filter": "/ad-audit."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-background\\."
+"trigger": {
+    "url-filter": "/ad-background."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-banner-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-banner\\."
+"trigger": {
+    "url-filter": "/ad-banner."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-bckg\\."
+"trigger": {
+    "url-filter": "/ad-bckg."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-bin/.*"
+"trigger": {
+    "url-filter": "/ad-bin/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-blacklist\\."
+"trigger": {
+    "url-filter": "/ad-blacklist."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-bottom\\."
+"trigger": {
+    "url-filter": "/ad-bottom."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-box-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-boxes-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-bucket\\."
+"trigger": {
+    "url-filter": "/ad-bucket."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-builder\\."
+"trigger": {
+    "url-filter": "/ad-builder."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-button1\\."
+"trigger": {
+    "url-filter": "/ad-button1."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-callback\\."
+"trigger": {
+    "url-filter": "/ad-callback."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-catalogue-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-cdn\\."
+"trigger": {
+    "url-filter": "/ad-cdn."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-channel-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-choices-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-choices\\."
+"trigger": {
+    "url-filter": "/ad-choices."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-controller\\."
+"trigger": {
+    "url-filter": "/ad-controller."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-creatives-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-creatives/.*"
+"trigger": {
+    "url-filter": "/ad-creatives/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-emea\\."
+"trigger": {
+    "url-filter": "/ad-emea."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-engine\\."
+"trigger": {
+    "url-filter": "/ad-engine."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-exchange\\."
+"trigger": {
+    "url-filter": "/ad-exchange."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-feature-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-feedback\\."
+"trigger": {
+    "url-filter": "/ad-feedback."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-feedback/.*"
+"trigger": {
+    "url-filter": "/ad-feedback/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-fix-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-flashgame\\."
+"trigger": {
+    "url-filter": "/ad-flashgame."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-format\\."
+"trigger": {
+    "url-filter": "/ad-format."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-forumhome/.*"
+"trigger": {
+    "url-filter": "/ad-forumhome/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-frame\\."
+"trigger": {
+    "url-filter": "/ad-frame."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-frame/.*"
+"trigger": {
+    "url-filter": "/ad-frame/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-gallery\\.",
+"trigger": {
+    "url-filter": "/ad-gallery.",
     "resource-type": ["style-sheet"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-half_"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-hcm\\."
+"trigger": {
+    "url-filter": "/ad-hcm."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-header\\."
+"trigger": {
+    "url-filter": "/ad-header."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-home-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-hug\\."
+"trigger": {
+    "url-filter": "/ad-hug."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-identifier\\."
+"trigger": {
+    "url-filter": "/ad-identifier."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-ifr\\."
+"trigger": {
+    "url-filter": "/ad-ifr."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-iframe-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-iframe\\."
+"trigger": {
+    "url-filter": "/ad-iframe."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-iframe\\?"
+"trigger": {
+    "url-filter": "/ad-iframe?"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-image\\."
+"trigger": {
+    "url-filter": "/ad-image."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-images/.*"
+"trigger": {
+    "url-filter": "/ad-images/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-ina\\."
+"trigger": {
+    "url-filter": "/ad-ina."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-indicator-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-inject/.*"
+"trigger": {
+    "url-filter": "/ad-inject/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-injection/.*"
+"trigger": {
+    "url-filter": "/ad-injection/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-inserter-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-inserter/.*"
+"trigger": {
+    "url-filter": "/ad-inserter/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-int-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-invalid-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-issue\\."
+"trigger": {
+    "url-filter": "/ad-issue."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-label-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-label\\."
+"trigger": {
+    "url-filter": "/ad-label."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-layering-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-layers-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-layers\\."
+"trigger": {
+    "url-filter": "/ad-layers."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-layout/.*",
+"trigger": {
+    "url-filter": "/ad-layout/*",
     "resource-type": ["script", "style-sheet"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-leaderboard\\."
+"trigger": {
+    "url-filter": "/ad-leaderboard."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-left\\."
+"trigger": {
+    "url-filter": "/ad-left."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-letter\\."
+"trigger": {
+    "url-filter": "/ad-letter."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-lil\\."
+"trigger": {
+    "url-filter": "/ad-lil."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-link/.*"
+"trigger": {
+    "url-filter": "/ad-link/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-loader-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-loader\\."
+"trigger": {
+    "url-filter": "/ad-loader."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-loading\\."
+"trigger": {
+    "url-filter": "/ad-loading."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-local\\.",
+"trigger": {
+    "url-filter": "/ad-local.",
     "unless-domain": ["*ad-local.de"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-logger/.*"
+"trigger": {
+    "url-filter": "/ad-logger/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-manager/.*"
+"trigger": {
+    "url-filter": "/ad-manager/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-managment/.*"
+"trigger": {
+    "url-filter": "/ad-managment/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-maven-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-methods\\."
+"trigger": {
+    "url-filter": "/ad-methods."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-minister-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-minister\\.",
+"trigger": {
+    "url-filter": "/ad-minister.",
     "unless-domain": ["*ad-minister.app"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-minister/.*",
+"trigger": {
+    "url-filter": "/ad-minister/*",
     "unless-domain": ["*ad-minister.app"]
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-modules/.*"
+"trigger": {
+    "url-filter": "/ad-modules/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-navi/.*"
+"trigger": {
+    "url-filter": "/ad-navi/*"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-nytimes\\."
+"trigger": {
+    "url-filter": "/ad-nytimes."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-offer1\\."
+"trigger": {
+    "url-filter": "/ad-offer1."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-openx\\."
+"trigger": {
+    "url-filter": "/ad-openx."
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
+"trigger": {
     "url-filter": "/ad-overlay-"
 }, "action": {
     "type": "block"
-}
 },
-{ "trigger": {
-    "url-filter": "/ad-overlay\\."
+"trigger": {
+    "url-filter": "/ad-overlay."
 }, "action": {
     "type": "block"
 }
-}
-]
-
