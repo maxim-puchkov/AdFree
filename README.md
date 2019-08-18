@@ -11,9 +11,12 @@ _App description._
 
 
 # Partitions
-1. Line 1017
-2. Line 2017 
-3. 
+1. Lines 17-1017
+2. Lines 1018-2017
+3. Lines 2018-3017
+4. Lines 3018-4017
+5. Lines 4018-5017
+6. Lines 5018-6017
 
 
 # Triggers
@@ -123,5 +126,5 @@ _App description._
 
 # Documentation
 * [x] [Create a content blocker (Apple)](https://developer.apple.com/documentation/safariservices/creating_a_content_blocker)
-* [ ] [A content blocker in action (Apple)](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/ContentBlocker.html)
+* [x] [A content blocker in action (Apple)](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/ContentBlocker.html)
 * [x] [Safari content blocker in Swift](https://www.ios-blog.com/tutorials/swift/create-a-safari-content-blocker/)

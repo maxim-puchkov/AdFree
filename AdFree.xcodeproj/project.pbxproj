@@ -15,6 +15,10 @@
 		841BE8AD2309494900EB0FB9 /* Partition-1 in Resources */ = {isa = PBXBuildFile; fileRef = 841BE8AC2309494900EB0FB9 /* Partition-1 */; };
 		8435519922E99FC70022297B /* tests in Resources */ = {isa = PBXBuildFile; fileRef = 8435519822E99FC70022297B /* tests */; };
 		8458E0D92309802C0098E4A0 /* Partition-2 in Resources */ = {isa = PBXBuildFile; fileRef = 8458E0D82309802C0098E4A0 /* Partition-2 */; };
+		8458E0DB2309C62C0098E4A0 /* Partition-3 in Resources */ = {isa = PBXBuildFile; fileRef = 8458E0DA2309C62C0098E4A0 /* Partition-3 */; };
+		8458E0DD2309D84B0098E4A0 /* Partition-4 in Resources */ = {isa = PBXBuildFile; fileRef = 8458E0DC2309D84A0098E4A0 /* Partition-4 */; };
+		8458E0DF2309D9020098E4A0 /* Partition-5 in Resources */ = {isa = PBXBuildFile; fileRef = 8458E0DE2309D9020098E4A0 /* Partition-5 */; };
+		8458E0E12309D9240098E4A0 /* Partition-6 in Resources */ = {isa = PBXBuildFile; fileRef = 8458E0E02309D9230098E4A0 /* Partition-6 */; };
 		84BC1A7D22E5A4B100D0EF1F /* ContentBlockerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BC1A7C22E5A4B100D0EF1F /* ContentBlockerList.swift */; };
 		84BC1A7F22E5A68300D0EF1F /* EasyList in Resources */ = {isa = PBXBuildFile; fileRef = 84BC1A7E22E5A68300D0EF1F /* EasyList */; };
 		84E87DC622E4801700390D7D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E87DC522E4801700390D7D /* AppDelegate.swift */; };
@@ -77,6 +81,10 @@
 		841BE8AC2309494900EB0FB9 /* Partition-1 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Partition-1"; sourceTree = "<group>"; };
 		8435519822E99FC70022297B /* tests */ = {isa = PBXFileReference; lastKnownFileType = text; path = tests; sourceTree = "<group>"; };
 		8458E0D82309802C0098E4A0 /* Partition-2 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Partition-2"; sourceTree = "<group>"; };
+		8458E0DA2309C62C0098E4A0 /* Partition-3 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Partition-3"; sourceTree = "<group>"; };
+		8458E0DC2309D84A0098E4A0 /* Partition-4 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Partition-4"; sourceTree = "<group>"; };
+		8458E0DE2309D9020098E4A0 /* Partition-5 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Partition-5"; sourceTree = "<group>"; };
+		8458E0E02309D9230098E4A0 /* Partition-6 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Partition-6"; sourceTree = "<group>"; };
 		84BC1A7C22E5A4B100D0EF1F /* ContentBlockerList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentBlockerList.swift; sourceTree = "<group>"; };
 		84BC1A7E22E5A68300D0EF1F /* EasyList */ = {isa = PBXFileReference; lastKnownFileType = text; path = EasyList; sourceTree = "<group>"; };
 		84E87DC222E4801700390D7D /* AdFree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdFree.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -190,13 +198,17 @@
 			isa = PBXGroup;
 			children = (
 				84E87DF922E480E500390D7D /* blockerList.json */,
+				841BE8AC2309494900EB0FB9 /* Partition-1 */,
+				8458E0D82309802C0098E4A0 /* Partition-2 */,
+				8458E0DA2309C62C0098E4A0 /* Partition-3 */,
+				8458E0DC2309D84A0098E4A0 /* Partition-4 */,
+				8458E0DE2309D9020098E4A0 /* Partition-5 */,
+				8458E0E02309D9230098E4A0 /* Partition-6 */,
 				84E87DFB22E480E500390D7D /* ContentBlockerRequestHandler.swift */,
 				84BC1A7C22E5A4B100D0EF1F /* ContentBlockerList.swift */,
 				8435519822E99FC70022297B /* tests */,
 				84E87DFD22E480E500390D7D /* Info.plist */,
 				84BC1A7E22E5A68300D0EF1F /* EasyList */,
-				841BE8AC2309494900EB0FB9 /* Partition-1 */,
-				8458E0D82309802C0098E4A0 /* Partition-2 */,
 				841BE8A92308588700EB0FB9 /* EasyListTriggers */,
 				8416CB9322F5A61300E4314C /* FilterParser.swift */,
 				8416CB9522F5AF4100E4314C /* Rule.swift */,
@@ -356,11 +368,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8458E0E12309D9240098E4A0 /* Partition-6 in Resources */,
 				841BE8AD2309494900EB0FB9 /* Partition-1 in Resources */,
 				8435519922E99FC70022297B /* tests in Resources */,
 				841BE8AA2308588700EB0FB9 /* EasyListTriggers in Resources */,
 				84BC1A7F22E5A68300D0EF1F /* EasyList in Resources */,
 				8458E0D92309802C0098E4A0 /* Partition-2 in Resources */,
+				8458E0DB2309C62C0098E4A0 /* Partition-3 in Resources */,
+				8458E0DD2309D84B0098E4A0 /* Partition-4 in Resources */,
+				8458E0DF2309D9020098E4A0 /* Partition-5 in Resources */,
 				84E87DFA22E480E500390D7D /* blockerList.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
