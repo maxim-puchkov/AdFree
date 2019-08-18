@@ -245,7 +245,7 @@
 }
 },
 { "trigger": {
-    "url-filter": "/admain|"
+    "url-filter": "/admain$"
 }, "action": {
     "type": "block"
 }
@@ -1073,7 +1073,7 @@
 }
 },
 { "trigger": {
-    "url-filter": "/adpicture1|"
+    "url-filter": "/adpicture1$"
 }, "action": {
     "type": "block"
 }
@@ -1085,7 +1085,7 @@
 }
 },
 { "trigger": {
-    "url-filter": "/adpicture2|"
+    "url-filter": "/adpicture2$"
 }, "action": {
     "type": "block"
 }
@@ -1808,7 +1808,7 @@
 }
 },
 { "trigger": {
-    "url-filter": "/ads-leader|"
+    "url-filter": "/ads-leader$"
 }, "action": {
     "type": "block"
 }
@@ -1880,7 +1880,7 @@
 }
 },
 { "trigger": {
-    "url-filter": "/ads-rec|"
+    "url-filter": "/ads-rec$"
 }, "action": {
     "type": "block"
 }
@@ -1952,7 +1952,7 @@
 }
 },
 { "trigger": {
-    "url-filter": "/ads-sky|"
+    "url-filter": "/ads-sky$"
 }, "action": {
     "type": "block"
 }
@@ -5708,7 +5708,7 @@
 }
 },
 { "trigger": {
-    "url-filter": "/adservice|"
+    "url-filter": "/adservice$"
 }, "action": {
     "type": "block"
 }
@@ -5738,7 +5738,7 @@
 }
 },
 { "trigger": {
-    "url-filter": "/adserv|.*|adtech;"
+    "url-filter": "/adserv.*adtech;"
 }, "action": {
     "type": "block"
 }
