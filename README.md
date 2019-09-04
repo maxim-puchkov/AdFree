@@ -59,32 +59,32 @@ _App description._
 ```
 * Replace `^([^$\s]*)` with
 ```json
-"trigger": {
-	"url-filter": "$1",
-	"load-type": ["third-party"]
+{ "trigger": {
+	"url-filter": "$1"
 }, "action": {
 	"type": "block"
+}
 },
 ```
 * Resulting list 
 ```json
-"trigger": {
-    "url-filter": "&ad_box_",
-    "load-type": ["third-party"]
+{ "trigger": {
+    "url-filter": "&act=ads_"
 }, "action": {
     "type": "block"
+}
 },
-"trigger": {
-    "url-filter": "&ad_channel=",
-    "load-type": ["third-party"]
+{ "trigger": {
+    "url-filter": "&ad\\.vid="
 }, "action": {
     "type": "block"
+}
 },
-"trigger": {
-    "url-filter": "&ad_classid=",
-    "load-type": ["third-party"]
+{ "trigger": {
+    "url-filter": "&ad_box_"
 }, "action": {
     "type": "block"
+}
 },
 ```
 
